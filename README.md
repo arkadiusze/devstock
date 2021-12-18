@@ -1,4 +1,4 @@
 # devstock
 
 
-to będzie moje pierwsze repozytorium
+to będzie moje pierwsze repozytorium 12345
